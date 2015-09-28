@@ -40,3 +40,4 @@ There are two "special" odds that might cause _you_ to do the dare. They are a c
 
 * If they say "1 in 1", you _both_ have to do the dare.
 * If they say "1 in 2" and it hits, they still have to do it, but if it misses, _you_ have to do it.
+* if both players guess numbers that adds up to the odds the game is out of, the one being asked has to do it.
